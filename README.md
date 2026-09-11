@@ -239,3 +239,6 @@ This repository serves as the official landing page for Rising Eagle. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rising Eagle today!**
+
+---
+**Last updated:** 2026-09-11 16:08:15 UTC
