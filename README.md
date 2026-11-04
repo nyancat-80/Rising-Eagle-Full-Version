@@ -241,4 +241,4 @@ This repository serves as the official landing page for Rising Eagle. The softwa
 **Get the most recent version of Rising Eagle today!**
 
 ---
-**Last updated:** 2026-11-04 16:52:36 UTC
+**Last updated:** 2026-11-04 22:26:02 UTC
